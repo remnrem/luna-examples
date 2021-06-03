@@ -8,17 +8,18 @@ Examples using Luna
    - [Sleep-EDF](1-preparation/sleep-edf/README.md)
 
  - Macro-architecture
-   - Hypnogram metrics 
-   - SOAP
-   - SUDS
+   - [Hypnogram metrics](2-macro/hypnograms/README.md)
+   - [SOAP](2-macro/soap/README.md)
+   - [SUDS](2-macro/suds/README.md)
 
  - Micro-architecture
-   - Spectral power (Welch, multitaper spectrograms)
-   - Multi-channel PSC analysis (w/ projection into NCH-SDB)
-   - Spindles/SO (incl. spindle propagation)
-   -  Connectivity (COH, PSI, GP) (incl. NREM vs REM differences)
+   - [Spectral power](3-micro/power/README.md) : (Welch, multitaper spectrograms)
+   - [Principal Spectral Components](3-micro/psc/README.md) : multi-channel intra- and inter-cohort PSC analysis 
+   - [Spindles & slow oscillations](3-micro/spindles/README.md) : occurrence, morphology, coupling and propagation
+   - [Connectivity](3-micro-connectivity/README.md) : coherence, phase slope index & Granger prediction during REM & NREM
 
- - Age-related trends in the sleep EEG
-   - Empirical control of multiple testing (DV ~ AGE + SEX + covars)
+ - Association analysis
+   - [Development](4-association/development/README.md) : changes in the sleep EEG across childhood 
+   - [Cross-domain](4-association/cross-domain/README.md) : analyses across sleep EEG domains
 
 ---
