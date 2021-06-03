@@ -3,9 +3,9 @@
 Examples using Luna
 
  - EDF manipulation
-   - PATS
-   - NCH-SDB
-   - Sleep-EDF
+   - [PATS](1-preparation/pats/README.md)
+   - [NCH-SDB](1-preparation/nch-sdb/README.md)
+   - [Sleep-EDF](1-preparation/sleep-edf/README.md)
 
  - Macro-architecture
    - Hypnogram metrics 
@@ -20,3 +20,5 @@ Examples using Luna
 
  - Age-related trends in the sleep EEG
    - Empirical control of multiple testing (DV ~ AGE + SEX + covars)
+
+---
