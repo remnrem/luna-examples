@@ -1,11 +1,13 @@
 # Luna applications
 
+_Nataliia Kozhemiako, Shaun Purcell_
+
 This repository is designed to illustrate some applications of the
 [Luna](http://zzz.bwh.harvard.edu/luna/) software package to
 polysomnography datasets, with an emphasis on the sleep EEG during
 childhood.
 
-Examples using Luna
+---
 
  - Dataset preparation (EDFs and annotations)
    - [PATS](1-preparation/pats/README.md) : preparing [Pediatric Adenotonsillectomy Trial for Snoring](https://patstrial.org) data
@@ -28,3 +30,4 @@ Examples using Luna
    - [Cross-domain](4-association/cross-domain/README.md) : analyses across sleep EEG domains
 
 ---
+
